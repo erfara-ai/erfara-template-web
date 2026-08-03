@@ -1,0 +1,53 @@
+[
+  {
+    "id": "r1",
+    "title": "First pass",
+    "score": 22,
+    "durationSec": 900,
+    "category": "draft",
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": "r2",
+    "title": "Second look",
+    "score": 58,
+    "durationSec": 1500,
+    "category": "review",
+    "tags": [
+      "open"
+    ]
+  },
+  {
+    "id": "r3",
+    "title": "The long one",
+    "score": 91,
+    "durationSec": 3600,
+    "category": "build",
+    "tags": [
+      "done",
+      "long"
+    ]
+  },
+  {
+    "id": "r4",
+    "title": "Quick fix",
+    "score": 47,
+    "durationSec": 600,
+    "category": "build",
+    "tags": [
+      "quick"
+    ]
+  },
+  {
+    "id": "r5",
+    "title": "Left for later",
+    "score": 12,
+    "durationSec": 1200,
+    "category": "draft",
+    "tags": [
+      "parked"
+    ]
+  }
+]
